@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.proyecto_appsScipt{
+    display: block;
+    justify-content: center;
+    text-align: center;
+}
+
+.proyecto_appsScipt h2{
+    font-size: 3em;
+}
